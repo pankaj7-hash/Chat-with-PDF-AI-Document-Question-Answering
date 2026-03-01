@@ -132,7 +132,8 @@ Python
 
 📊 Example Screenshot
 
-(![Uploading image.png…]
+(<img width="1836" height="913" alt="Chat with pdf2" src="https://github.com/user-attachments/assets/29f7ede7-19ed-42ae-ae69-5c6315aba20b" />
+
 )
 
 /screenshots/app.png
