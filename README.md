@@ -91,11 +91,11 @@ https://console.groq.com/keys
 streamlit run app.py
 🖥️ Usage
 
-Upload one or more PDF files
+Upload one PDF file
 
 Click Submit & Process
 
-Ask questions related to the PDFs
+Ask questions related to the PDF
 
 Get instant AI-generated answers
 
@@ -132,7 +132,8 @@ Python
 
 📊 Example Screenshot
 
-(Add your screenshot here)
+(![Uploading image.png…]
+)
 
 /screenshots/app.png
 🎯 Use Cases
